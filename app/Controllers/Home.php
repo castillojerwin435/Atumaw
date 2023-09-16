@@ -8,4 +8,9 @@ class Home extends BaseController
     {
         return view('welcome_message');
     }
+    public function castillojerwin435()
+    {
+        echo (' hello cutieeee');
+    }
+   
 }
