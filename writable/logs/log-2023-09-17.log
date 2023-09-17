@@ -1,0 +1,280 @@
+CRITICAL - 2023-09-17 00:44:04 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 00:44:30 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 00:45:00 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 00:45:01 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 00:45:02 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 00:45:02 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 00:45:02 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 00:45:26 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 00:46:30 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 00:47:05 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 00:47:05 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 00:47:06 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 00:47:06 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 00:47:07 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 00:47:07 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 00:47:32 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 00:47:33 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 00:47:35 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 00:47:36 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 00:47:36 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 00:47:43 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 00:47:44 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 00:47:45 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 00:47:46 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 00:47:50 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 02:37:19 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 02:38:13 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
+CRITICAL - 2023-09-17 02:39:53 --> Invalid file: "productss.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('productss.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('productss', [], true)
+ 3 APPPATH\Controllers\ProductController.php(15): view('productss')
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\ProductController->castillojerwin435()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Atumaw\\public\\index.php')
