@@ -12,7 +12,7 @@ class ProductController extends BaseController
     }
     public function castillojerwin435()
     {
-     return view('products');
+     return view('productss');
     }
     public function index()
     {
